@@ -3,7 +3,7 @@
 I’m a PHP artisan, full stack dev and server wrangler. I'm also a freelance developer/consultant working for various clients (like [Sentry](https://sentry.io) maintaining the PHP/Laravel SDKs) & working on making [Chief Tools](https://chief.app/?ref=gh-stayallive) a collection of first class tools I wish I had when I started out building applications on the web.
 
 - Want to read the longer story? Check out my [about me](https://github.com/stayallive/stayallive/blob/main/ABOUT-ME.md) page
-- Want to check out my tools? See [Chief Tools](https://chief.app/?ref=gh-stayallive) and read more about it on the [about page](https://chief.app/about?ref=gh-stayallive)
+- Want to check out my tools? See [Chief Tools](https://chief.app/?ref=gh-stayallive) and read more about that journey on the [about page](https://chief.app/about?ref=gh-stayallive)
 - I sometimes write about Laravel and servers or other things I find cool, you can read that on the [Chief Tools blog](https://chief.app/blog?ref=gh-stayallive)
 - Whenever I find something cool I like to bookmark it for "later" (IYKYK), they are public to [browse](https://raindrop.io/stayallive/bookmarks-19262112)
 
